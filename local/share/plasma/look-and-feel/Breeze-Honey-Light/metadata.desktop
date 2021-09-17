@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Breeze-Honey-Light Look And Feel
+Name=Breeze-Honey-Light
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Breeze-Honey-Light
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1357791,kns://plasma-themes.knsrc/api.kde-look.org/1357800,kns://aurorae.knsrc/api.kde-look.org/1357787,kns://aurorae.knsrc/api.kde-look.org/1357788,kns://aurorae.knsrc/api.kde-look.org/1357786,kns://icons.knsrc/api.kde-look.org/1345846,kns://icons.knsrc/api.kde-look.org/1345847,kns://icons.knsrc/api.kde-look.org/1298508,kns://icons.knsrc/api.kde-look.org/1281798,kns://wallpaper.knsrc/api.kde-look.org/1238014,kns://wallpaper.knsrc/api.kde-look.org/1291628,kns://wallpaper.knsrc/api.kde-look.org/1350546,kns://sddmtheme.knsrc/api.kde-look.org/1357782,kns://sddmtheme.knsrc/api.kde-look.org/1357784
